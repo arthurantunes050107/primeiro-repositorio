@@ -2,11 +2,10 @@ body {
     
 }
 
-.titulo-principal{
+.titulo-principal {
     padding-left: 25px;
-    background-color: #CCCCCC;
-    color: #FFFFFF;
 }
+
 img {
     width: 100%;
 }
@@ -25,22 +24,20 @@ p {
 }
 
 em strong {
-    color:red
+    color: red;
 }
 
-#missao{
+#missao {
     font-size: 20px;
-
 }
 
-.beneficios{
+.beneficios {
     background: #FFFFFF;
     padding: 20px;
 }
 
-h3{
+h3 {
     text-align: center;
-
 }
 
 ul {
@@ -48,7 +45,6 @@ ul {
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
-
 }
 
 .itens {
@@ -57,6 +53,4 @@ ul {
 
 .imagembeneficios {
     width: 50%;
-}    
-
-
+}
